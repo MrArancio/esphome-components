@@ -4,7 +4,7 @@
 #include <queue>
 #include "ECPSoftwareSerial.h"
 
-//#define DEBUG
+#define DEBUG
 
 #define MONITORTX
 
